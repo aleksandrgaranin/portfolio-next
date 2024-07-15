@@ -295,7 +295,7 @@ export const workExperience = [
     titleRu: "Full Stack Веб-разработчик Freelance",    
     
     descEn: "Collaborated closely with clients to gather project requirements, provide updates, and deliver solutions that exceeded expectations",
-    descRu: "ЯТесно сотрудничал с клиентами для сбора требований проекта, предоставления обновлений и предоставления решений, которые превзошли ожидания.",
+    descRu: "Я Тесно сотрудничал с клиентами для сбора требований проекта, предоставления обновлений и предоставления решений, которые превзошли ожидания.",
     
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
