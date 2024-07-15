@@ -138,7 +138,7 @@ export const projects = [
   {
     id: 1,
     title: "AGL Leather goods",
-    des: "Online store for a small workshop for the production of leather goods from exotic leather.`",
+    desEn: "Online store for a small workshop for the production of leather goods from exotic leather.`",
     desRu: "Интернет-магазин небольшой мастерской по производству кожгалантереи из экзотической кожи.",
     video: "https://www.youtube.com/embed/fyazCQ8pBO8?si=k4yyEtaWhzB7nCew",
     iconLists: ["/re.svg", "/next.svg", "/tail.svg", "/ts.svg"],
@@ -147,7 +147,7 @@ export const projects = [
   {
     id: 2,
     title: "Landmarks",
-    des: "A simple single page React app designed to share your favorite places you've been with your friends.",
+    desEn: "A simple single page React app designed to share your favorite places you've been with your friends.",
     desRu: "Простое одностраничное приложение React, созданное для того, чтобы поделиться с друзьями любимыми местами, в которых вы побывали.",
     video: "https://www.youtube.com/embed/7v211Ts3Gbk",
     iconLists: ["/next.svg", "/ts.svg", "/firebase.png", "/react-router.png"],
