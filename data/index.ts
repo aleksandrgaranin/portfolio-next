@@ -150,7 +150,7 @@ export const projects = [
     desEn: "A simple single page React app designed to share your favorite places you've been with your friends.",
     desRu: "Простое одностраничное приложение React, созданное для того, чтобы поделиться с друзьями любимыми местами, в которых вы побывали.",
     video: "https://www.youtube.com/embed/7v211Ts3Gbk",
-    iconLists: ["/next.svg", "/ts.svg", "/firebase.png", "/react-router.png"],
+    iconLists: ["/re.svg", "/ts.svg", "/firebase.png", "/react-router.png"],
     link: "https://ag-mern-share-places.web.app/",
   },
   {
