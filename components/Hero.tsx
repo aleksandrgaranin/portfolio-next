@@ -18,13 +18,13 @@ const enHero = {
   topSmalText: 'Dynamic Web Magic with Next.js',
   mainIntroduction: 'Transforming concepts into Seamless User Experiences',
   nameIntioduction: "Hi, I'm Aleksandr, a React.js, TypeScript and Next.js Developer.",
-  buttonText: 'Show my work'
+  buttonText: 'Show my Projects'
 }
 const ruHero = {
   topSmalText: 'Динамическая магия с Next.js',
   mainIntroduction: 'Трансформирую идеи в безупречный опыт использования',
   nameIntioduction: 'Привет, я Александр, Разработчик React.js, TypeScript и Next.js.',
-  buttonText: 'Показать мою работу'
+  buttonText: 'Показать мои Проекты'
 }
 
 
@@ -75,7 +75,7 @@ const Hero = () => {
           <div className='flex mt-5 sm:m-5 flex-row flex-wrap gap-5 justify-center'>
             <MagicButton
               title={language === 'en' ? "Change language to Russian" : 'Поменять на Английский'} icon={<FaRightLeft />} position={'right'} handleClick={toggleLanguage} />
-            <a href='#about'>
+            <a href='#projects'>
               <MagicButton
                 title={selectedLanguage.buttonText} icon={<FaLocationArrow />} position={'right'} />
             </a>

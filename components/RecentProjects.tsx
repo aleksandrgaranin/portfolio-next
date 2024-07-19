@@ -11,7 +11,7 @@ const RecentProjects = () => {
  
 
   return (
-    <div className='py-10' id="projects">
+    <div className='py-20' id="projects">
       <h1 className='heading'>
         {language === 'en' ? <><p>A small selection of {' '}</p>
           <span className='text-purple'>resent projects</span>

@@ -208,13 +208,13 @@ export const testimonials = [
 export const tailechnicalSkills = [  
   {
     id: 1,
-    name: "React",
+    name: "React.js",
     img: "/re.svg",
     // nameImg: "/hostName.svg",
   },
   {
     id: 2,
-    name: "Next",
+    name: "Next.js",
     img: "/next.svg",
     // nameImg: "/appName.svg",
   },
@@ -226,13 +226,13 @@ export const tailechnicalSkills = [
   },
   {
     id: 4,
-    name: "react-router",
+    name: "React-Router",
     img: "react-router.png",
     // nameImg: "/streamName.svg",
   },
   {
     id: 5,
-    name: "redux.",
+    name: "React Redux",
     img: "/redux.svg",
     // nameImg: "/dockerName.svg",
   },
@@ -260,7 +260,7 @@ export const tailechnicalSkills = [
   
   {
     id: 9,
-    name: "Firebase",
+    name: "FireBase",
     img: "/firebase.png",
     // nameImg: "/cloudName.svg",
   },
