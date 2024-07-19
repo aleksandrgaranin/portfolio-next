@@ -17,13 +17,13 @@ export interface SelectedLanguage {
 const enHero = {
   topSmalText: 'Dynamic Web Magic with Next.js',
   mainIntroduction: 'Transforming concepts into Seamless User Experiences',
-  nameIntioduction: "Hi, I'm Aleksandr, a Next.js Developer based in Russia",
+  nameIntioduction: "Hi, I'm Aleksandr, a React.js, TypeScript and Next.js Developer.",
   buttonText: 'Show my work'
 }
 const ruHero = {
   topSmalText: 'Динамическая магия с Next.js',
   mainIntroduction: 'Трансформирую идеи в безупречный опыт использования',
-  nameIntioduction: 'Привет, я Александр, Разработчик Next.js базируюсь в России',
+  nameIntioduction: 'Привет, я Александр, Разработчик React.js, TypeScript и Next.js.',
   buttonText: 'Показать мою работу'
 }
 
