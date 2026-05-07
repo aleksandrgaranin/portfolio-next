@@ -193,16 +193,16 @@ export const testimonials = [
     profilePic: '/dko.png'
 
   },
-  {
-    quoteEn:
-      "Collaborating with Aleksandr was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aleksandr's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aleksandr is the ideal partner.",
-    quoteRu:
-      "Сотрудничать с Александром было сплошным удовольствием. Его профессионализм, оперативность и стремление добиться исключительных результатов были очевидны на протяжении всего нашего проекта. Энтузиазм Александра по поводу каждого аспекта развития действительно выделяется. Если вы хотите улучшить свой веб-сайт и свой бренд, Александр — идеальный партнер",
-    name: "Tim Engle",
-    title: "Founder of Automagic Technologies",
-    profilePic: '/ten.png'
+  // {
+  //   quoteEn:
+  //     "Collaborating with Aleksandr was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aleksandr's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aleksandr is the ideal partner.",
+  //   quoteRu:
+  //     "Сотрудничать с Александром было сплошным удовольствием. Его профессионализм, оперативность и стремление добиться исключительных результатов были очевидны на протяжении всего нашего проекта. Энтузиазм Александра по поводу каждого аспекта развития действительно выделяется. Если вы хотите улучшить свой веб-сайт и свой бренд, Александр — идеальный партнер",
+  //   name: "Tim Engle",
+  //   title: "Founder of Automagic Technologies",
+  //   profilePic: '/ten.png'
 
-  },
+  // },
 ];
 
 export const tailechnicalSkills = [  
